@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "23AD2E5178C8CAF80B3D89A45C4D921801DBBCB1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "23AD2E5178C8CAF80B3D89A45C4D921801DBBCB1" : 9223372036854775807,
+    "7DEAAB82C1001A697D3A79858EB89A1719C8E64B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "19ECA8ED-6CA4-4284-8308-4EC7D017284F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "23AD2E5178C8CAF80B3D89A45C4D921801DBBCB1" : "iTip\/",
+    "7DEAAB82C1001A697D3A79858EB89A1719C8E64B" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iTip",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iTip\/iTip.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ryanliszewski\/iTip.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "23AD2E5178C8CAF80B3D89A45C4D921801DBBCB1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ryanliszewski\/yelp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7DEAAB82C1001A697D3A79858EB89A1719C8E64B"
+    }
+  ]
+}
