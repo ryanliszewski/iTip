@@ -12,7 +12,8 @@ class HomeViewController: UIViewController {
 
 
 
-
+  @IBOutlet weak var plusButton: UIButton!
+  
   @IBOutlet weak var tipSegmentedController: UISegmentedControl!
   @IBOutlet weak var billAmountTextField: UITextField!
   @IBOutlet weak var billAmountView: UIView!
@@ -29,6 +30,7 @@ class HomeViewController: UIViewController {
     NotificationCenter.default.addObserver(self, selector: #selector(self.keyboardShown(notification:)), name: NSNotification.Name.UIKeyboardDidShow, object: nil)
     billAmountTextField.delegate = self
     //billAmountTextField.setBottomBorder()
+    
     
   }
   
